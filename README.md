@@ -39,7 +39,6 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=deepti-50&show_icons=true&locale=en" alt="deepti-50" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepti-50&" alt="deepti-50" /></p>
 
 ---
 
