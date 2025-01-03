@@ -5,7 +5,7 @@ Got it! Here's your updated layout with the avatar shifted to the top right side
 <h1 align="center">Hi 👋, I'm Deepti Singh</h1>
 <h3 align="center">A passionate Backend Developer and Data Scientist from Mumbai, India</h3>
 
-<img src="https://raw.githubusercontent.com/deepti-50/deepti-50/main/avatar.png" alt="Deepti Avatar" width="200" align="right" />
+<img src="608e5cb4-6654-4673-8477-2e37b6637193-removebg-preview.png" alt="Deepti Avatar" width="200" align="right" />
 
 - 🔭 I’m currently working on **AI-powered applications and scalable backend systems**  
 - 🌱 I’m currently learning **Advanced Machine Learning and Cloud Computing**  
