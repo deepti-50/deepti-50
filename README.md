@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **deeptisunilsingh50@gmail.com**  
 
-- 📄 Know about my experiences [My Resume](https://github.com/deepti-50/resume-link)  
+- 📄 Know about my [experiences](https://drive.google.com/file/d/1BGrOSmfYfTKlcWCCVYkMmMrtLyAT5lJN/view?usp=drivesdk)
 
 - 🌐 Check out my portfolio [here](deeptisingh.vercel.app/)
 <h3 align="left">Connect with me:</h3>
