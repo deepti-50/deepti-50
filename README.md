@@ -1,5 +1,3 @@
-Got it! Here's your updated layout with the avatar shifted to the top right side:
-
 ---
 
 <h1 align="center">Hi 👋, I'm Deepti Singh</h1>
@@ -62,5 +60,3 @@ Got it! Here's your updated layout with the avatar shifted to the top right side
   **Technologies**: TypeScript, CSS, Next.js  
 
 ---
-
-Let me know if this looks good or if you'd like any other adjustments!
