@@ -1,23 +1,23 @@
+Got it! Here's your updated layout with the avatar shifted to the top right side:
+
+---
+
 <h1 align="center">Hi 👋, I'm Deepti Singh</h1>
 <h3 align="center">A passionate Backend Developer and Data Scientist from Mumbai, India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepti-50&label=Profile%20views&color=0e75b6&style=flat" alt="deepti-50" /> </p>
+<img src="https://raw.githubusercontent.com/deepti-50/deepti-50/main/avatar.png" alt="Deepti Avatar" width="200" align="right" />
 
 - 🔭 I’m currently working on **AI-powered applications and scalable backend systems**  
-
 - 🌱 I’m currently learning **Advanced Machine Learning and Cloud Computing**  
-
 - 💬 Ask me about **Backend Development, Machine Learning, and Data Visualization**  
-
 - 📫 How to reach me **deeptisunilsingh50@gmail.com**  
-
 - 📄 Know about my [experiences](https://drive.google.com/file/d/1BGrOSmfYfTKlcWCCVYkMmMrtLyAT5lJN/view?usp=drivesdk)
+- 🌐 Check out my portfolio [here](https://deeptisingh.vercel.app/)
 
-- 🌐 Check out my portfolio [here](deeptisingh.vercel.app/)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/deeptisingh18" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="deeptisingh18" height="30" width="40" /></a>
-<a href="https://github.com/deepti-50" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="deepti-50" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/deeptisingh18" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="deeptisingh18" height="30" width="40" /></a>
+  <a href="https://github.com/deepti-50" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="deepti-50" height="30" width="40" /></a>
 </p>
 
 ---
@@ -28,6 +28,7 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
     <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+    <a href="https://nextjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/> </a> 
     <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="40" height="40"/> </a>
     <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
@@ -56,4 +57,10 @@
   Analyzed 10,000+ loan applications, built ML models, and improved loan processing efficiency.  
   **Technologies**: Python, NumPy, Pandas  
 
+- **Imaginify**  
+  A platform that enhances original pictures using AI-powered algorithms, providing a seamless user experience. Includes a payment gateway for premium features.  
+  **Technologies**: TypeScript, CSS, Next.js  
+
 ---
+
+Let me know if this looks good or if you'd like any other adjustments!
