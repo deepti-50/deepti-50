@@ -1,6 +1,7 @@
 ---
 
 <h1 align="center">Hi 👋, I'm Deepti Singh</h1>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=deepti-50&label=Profile%20views&color=0e75b6&style=flat" alt="deepti-50" /></p>
 <h3 align="center">A passionate Backend Developer and Data Scientist from Mumbai, India</h3>
 
 <img src="608e5cb4-6654-4673-8477-2e37b6637193-removebg-preview.png" alt="Deepti Avatar" width="200" align="right" />
