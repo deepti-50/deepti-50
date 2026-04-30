@@ -7,7 +7,7 @@
 <img src="608e5cb4-6654-4673-8477-2e37b6637193-removebg-preview.png" alt="Deepti Avatar" width="200" align="right" />
 
 - 🔭 I’m currently working on **AI-powered applications and scalable backend systems**  
-- 🌱 I’m currently learning **Advanced Machine Learning and Cloud Computing**  
+- 🌱 I’m currently learning **Advanced Machine Learning**  
 - 💬 Ask me about **Backend Development, Machine Learning, and Data Visualization**  
 - 📫 How to reach me **deeptisunilsingh50@gmail.com**  
 - 📄 Know about my [experiences](https://drive.google.com/file/d/1BGrOSmfYfTKlcWCCVYkMmMrtLyAT5lJN/view?usp=drivesdk)
