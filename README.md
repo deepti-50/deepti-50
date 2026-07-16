@@ -14,8 +14,6 @@
 
 I'm an AI Engineer passionate about building production-ready AI applications using Large Language Models, Multi-Agent Systems, Computer Vision, and scalable backend technologies.
 
-Currently, I'm working on AI-powered automation, CrewAI agents, YOLO-based vision models, and cloud deployments.
-
 - 🤖 Ex-AI Engineer Intern @ Vedic Rishi Astro
 - 🚀 Building Multi-Agent AI Applications with CrewAI
 - 👁️ Working on Computer Vision using YOLOv8
@@ -68,21 +66,6 @@ Research project leveraging NLP techniques to identify misleading sustainability
 📄 TrustED: AI-Powered Accreditation System *(Research in Progress)*
 
 ---
-
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=deepti-50&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=deepti-50&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepti-50&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 📧 **Email:** deeptisunilsingh50@gmail.com
