@@ -74,7 +74,7 @@ Research project leveraging NLP techniques to identify misleading sustainability
 
 🌍 **Portfolio:** https://deeptisingh.vercel.app/
 
-💻 **Resume:** https://drive.google.com/file/d/1S3VQloofdGAvVWTMbrtXCZLwpsSSIdGe/view
+💻 **Resume:** [https://drive.google.com/file/d/1S3VQloofdGAvVWTMbrtXCZLwpsSSIdGe/view](https://drive.google.com/file/d/1VpZG5W-5NS46iS6E7rX4xfug7PGdmkqh/view?usp=drive_link)
 
 ---
 
