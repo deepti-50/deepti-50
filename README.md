@@ -15,8 +15,8 @@
 I'm an AI Engineer passionate about building production-ready AI applications using Large Language Models, Multi-Agent Systems, Computer Vision, and scalable backend technologies.
 
 - 🤖 Ex-AI Engineer Intern @ Vedic Rishi Astro
+- Currently Working as an Associate Product Reliabilty Engineer at IDfy.
 - 🚀 Building Multi-Agent AI Applications with CrewAI
-- 👁️ Working on Computer Vision using YOLOv8
 - ☁️ Deploying AI services using Docker & AWS Lambda
 - 📚 Researching AI applications in Sustainability & Education
 - 💡 Interested in LLMs, AI Agents, Backend Systems & Applied AI
@@ -38,7 +38,7 @@ FastAPI • Flask • Node.js • Express.js • REST APIs
 PostgreSQL • MySQL  • Redis
 
 ### Cloud
-Docker • AWS Lambda • Git • GitHub • Postman
+Docker • AWS Lambda • Postman
 
 ---
 
@@ -46,12 +46,6 @@ Docker • AWS Lambda • Git • GitHub • Postman
 
 ### 🌟 Palm Line Detection System
 YOLOv8-based Computer Vision model trained on 7,100+ images for detecting four major palm lines and deployed on AWS Lambda using Docker.
-
----
-
-### 🎓 TrustED
-AI-powered accreditation platform that automates NBA Self-Assessment Report evaluation using NLP and Multi-Agent AI.
-
 ---
 
 ### 🌱 Greenwashing Detection using AI
@@ -62,8 +56,6 @@ Research project leveraging NLP techniques to identify misleading sustainability
 ## 📚 Publications
 
 📄 AI for Detecting Greenwashing in Corporate Sustainability Reports *(Accepted)*
-
-📄 TrustED: AI-Powered Accreditation System *(Research in Progress)*
 
 ---
 ## 🌐 Connect With Me
